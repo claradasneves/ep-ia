@@ -1,3 +1,11 @@
+Integrantes:
+- Ana Clara das Neves Barreto - 13672540
+- Eloisa Antero Guisse - 13781924
+- Marcos Martins de Oliveira Pacheco - 13672602
+- Jamyle Gonçalves Rodrigues Silva - 13672338
+- Lucca Pinto - 13781991 
+- Sarah Klock Mauricio - 13673131
+
 Descrição de cada arquivo:
 
 - ep_ia_mlp.ipynb: contém o notebook com a implementação da MLP de fato.
