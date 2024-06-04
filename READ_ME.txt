@@ -1,11 +1,11 @@
 Descrição de cada arquivo:
 
-- ep_ia_mlp.ipynb: contém o notebook com a implementação da MLP de fato.
+- ep_ia_mlp.ipynb: contém o notebook com a implementação do MLP de fato.
 
-- analises.ipynb: contém o notebook com gráficos gerados para análise da MLP.
+- analises.ipynb: contém o notebook com gráficos gerados para análise do MLP.
 
 - pesos_salvos.txt: contém um JSON que pode ser usado pelo método build_mlp() para construir as camadas 
-  de uma MLP sem a necessidade de treiná-la novamente, junto com a lista de erros de treinamento e validação 
+  de um MLP sem a necessidade de treiná-lo novamente, junto com a lista de erros de treinamento e validação 
   por época registrados no treinamento do modelo e o conjunto de dados de teste que não foram usados no 
   treinamento.
 
